@@ -5,4 +5,4 @@
 
 ![Screen Inventory](https://www.lucidchart.com/publicSegments/view/6bd6dc63-4b03-4ce5-a994-ae05e2465224/image.png)
 
-#### [Wireframe](https://gracebodur.github.io/gottalotto-wireframe/)
+### [Wireframe](https://gracebodur.github.io/gottalotto-wireframe/)
