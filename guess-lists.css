@@ -1,0 +1,21 @@
+.winnerList {
+    display: flex;
+    flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+
+.winnerList .container {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+}
+
+.guessItem {
+    background-color: grey;
+}
+
+.guessItem > img {
+    width: 20%;
+}
