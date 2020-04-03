@@ -19,3 +19,8 @@ justify-content: space-around;
 .guessItem > img {
     width: 20%;
 }
+
+a > p {
+    text-align: center;
+    color:blue;
+}
